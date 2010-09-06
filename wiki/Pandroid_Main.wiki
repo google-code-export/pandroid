@@ -1,0 +1,2 @@
+
+The details on *Pandroid*, the Android port on PandaBoard can be seen at http://omappedia.org/wiki/OMAP_Pandroid_Main

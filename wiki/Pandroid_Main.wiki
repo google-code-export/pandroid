@@ -1,1 +1,1 @@
-*Pandroid* project documentation is at http://omappedia.org/wiki/OMAP_Pandroid_Main
+*Pandroid* project documentation is at http://www.omappedia.com/wiki/Release_Notes
